@@ -4,12 +4,12 @@ Rushyam
 
 Link to dataset: https://www.microsoft.com/en-us/research/project/sigmadolphin-2/
 
-Link to Paper: 
+Link to Paper: https://www.aclweb.org/anthology/D17-1088
 
 Programming Language: Python
 
 
-Dependecies: Numpy, NLTK, pytorch, TensorFlow
+Dependencies: Numpy, NLTK, pytorch, TensorFlow
 
 
 DL Model: RNN(LSTM)
