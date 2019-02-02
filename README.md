@@ -1,5 +1,5 @@
 # solve_word_math_problem (ET61002)
-Rushyam Swarnendu (16NA10030)
+Rushyam(16NA10012)        Swarnendu (16NA10030)
 
 
 Link to dataset: https://www.microsoft.com/en-us/research/project/sigmadolphin-2/
